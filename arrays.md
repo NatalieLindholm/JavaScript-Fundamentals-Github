@@ -12,6 +12,6 @@ let colors = ["Blue", "Red", "Purple"]
 Accessing data in the array
 
 ```
-colors[0] > Blue
-colors[2] > Purple
+colors[0] *> Blue*
+colors[2] *> Purple*
 ```
