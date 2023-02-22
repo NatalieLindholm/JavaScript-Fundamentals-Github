@@ -12,9 +12,11 @@ let colors = ["Blue", "Red", "Purple"]
 ### Accessing data in the array
 
 ```
-colors[0] > Blue
-colors[2] > Purple
+colors[0]
+colors[2]
 ```
+
+So the output would be **Blue** and **Purple**
 
 ### Replacing an element in the array
 
