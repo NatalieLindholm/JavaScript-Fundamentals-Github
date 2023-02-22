@@ -1,17 +1,62 @@
 # Arrays
 Arrays are used for storing **ordered** collcetions of data.
-Array elements are numbered, so they start with **zero**.
+Arrays are also numbered, and they start with **zero**.
 
-## Examples
-Array with some data
+## How array works
+# Array with some data
 
 ```
 let colors = ["Blue", "Red", "Purple"]
 ```
 
-Accessing data in the array
+# Accessing data in the array
 
 ```
-colors[0] *> Blue*
-colors[2] *> Purple*
+colors[0] > Blue
+colors[2] > Purple
 ```
+
+# Replacing an element in the array
+
+```
+colors[1] = "Green"
+```
+
+So the new array is now
+
+```
+let colors = ["Blue", "Green", "Purple"]
+```
+
+# Adding a new element to the array
+
+```
+colors[3] = "Yellow"
+```
+
+So the new array is now
+
+```
+let colors = ["Blue", "Green", "Purple", "Yellow"]
+```
+
+# How to check the total count of elements in the array
+
+```
+colors.length
+```
+
+The output would be **4**
+
+## Examples
+Looping an array
+
+```
+let cars = ["BMW", "Toyata", "Ferrari", "Miata"]
+ 
+ for (let i = 0; i < cars.length; i++){
+    console.log(cars[i])
+ };
+ ```
+ 
+ The output would be **BWM, Toyata, Ferrari, Miata**
