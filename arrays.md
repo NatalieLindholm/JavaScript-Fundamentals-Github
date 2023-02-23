@@ -54,13 +54,13 @@ The output would be **4**
 Looping an array
 
 ```
-let cars = ["BMW", "Toyata", "Ferrari", "Miata"]
+let cars = ["Bmw", "Toyata", "Ferrari", "Miata"]
  
  for (let i = 0; i < cars.length; i++){
     console.log(cars[i])
  };
  ```
  
- The output would be **BWM, Toyata, Ferrari, Miata**
+ The output would be **Bwm, Toyata, Ferrari, Miata**
 
  [Back to READ ME](README.md)
