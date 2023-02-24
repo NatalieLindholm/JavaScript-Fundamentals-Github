@@ -26,3 +26,12 @@ let i = 3;
 So the ouput on this would be that it shows 3, then 2 , then 1.
 
 ### The "for" loop
+
+```
+ for (let i = 0; i < 3; i++) {
+     alert(i);
+}
+```
+
+
+[Back to READ ME](README.md)
