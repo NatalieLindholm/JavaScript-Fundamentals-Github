@@ -1,8 +1,10 @@
 # Loops
 Loops are used to repeat the same code multiple times.
 
-## Examples
+## Different kinds of loops
 ### The "while" loop
+Loops through a code while a specified condition is true
+
 Here it alerts the **i** while its less then **3**.
 ```
 let i = 0;
@@ -26,6 +28,9 @@ let i = 3;
 So the ouput on this would be that it shows 3, then 2 , then 1.
 
 ### The "for" loop
+Loops through a code a number of times
+
+So here it alerts **i** while its less then **3** starting from **0**
 
 ```
  for (let i = 0; i < 3; i++) {
@@ -33,5 +38,6 @@ So the ouput on this would be that it shows 3, then 2 , then 1.
 }
 ```
 
+So the ouput on this would be that it shows 0, then 1 , then 2.
 
 [Back to READ ME](README.md)
