@@ -58,7 +58,7 @@ let cars = ["Bmw", "Toyata", "Ferrari", "Miata"]
  
  for (let i = 0; i < cars.length; i++){
     console.log(cars[i])
- };
+ }
  ```
  
  The output would be **Bwm, Toyata, Ferrari, Miata**

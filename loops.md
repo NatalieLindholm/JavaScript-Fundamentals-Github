@@ -20,8 +20,8 @@ The while loop can also work the other way
 ```
 let i = 3;
  while (i) {
-     alert(i);
-     i--;
+     alert(i)
+     i--
 }
 ```
 
@@ -34,7 +34,7 @@ So here it alerts **i** while its less then **3** starting from **0**
 
 ```
  for (let i = 0; i < 3; i++) {
-     alert(i);
+     alert(i)
 }
 ```
 
