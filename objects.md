@@ -21,7 +21,7 @@ alert(user.age)
 So the output would be **Bonkers** and **29**.
 
 ### Adding data to an object
-To add data to an object, you put the variabel name (in this case user) and a **.** + the data you wanna add.
+To add data to an object, you put the variabel name (in this case **user**) and a (**.**) + the data you wanna add.
 ```
 user.lastName = "Stonkers"
 ```
