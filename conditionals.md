@@ -8,6 +8,8 @@ A conditinal statement is a control behavior and determine whether or not a piec
 if (hour < 18) {
   alert("Good day")
 }
-​```
+```
 
-Here the condition that the code will only run if the hour is **less then 18**.
+Here the condition is that the code will only run if the hour is **less then 18**.
+
+[Back to READ ME](README.md)
