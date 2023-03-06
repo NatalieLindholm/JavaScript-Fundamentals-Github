@@ -6,6 +6,7 @@ Loops are used to repeat the same code multiple times.
 Loops through a code while a specified condition is true
 
 Here it alerts the **i** while its less then **3**.
+
 ```
 let i = 0;
 while (i < 3){
@@ -17,6 +18,7 @@ while (i < 3){
 So the ouput would be that it shows 0, then 1 , then 2.
 
 The while loop can also work the other way
+
 ```
 let i = 3;
  while (i) {
